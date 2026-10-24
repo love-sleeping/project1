@@ -1,0 +1,14 @@
+Project: 鹤壁市外国语中学（高中部）
+Release: v2.5.0
+Release date: 2026-10-24
+Codename: FLS / 文脉与网格 · 独立结尾章节与制作人页
+Base: user-provided v2.4.1 ZIP
+Design: restrained Chinese school character with editorial grid; warm paper, ink blue, muted cinnabar, antique brass.
+Typography: Apple system stack with platform fallback.
+School mark: original school-logo image is referenced from the Henan digital campus platform; not redrawn.
+Motion: original scroll-linked motto interlude retained; reduced-motion preference remains respected.
+Interactions: mobile navigation, active chapter links, closing-note cycling, and maker QQ copy with manual fallback.
+Maker page: 我爱睡觉 / lovesleeping; QQ 3653541465; Bilibili https://space.bilibili.com/1291318764.
+Photos: current source archive contains no local assets/photos directory; images still use external URLs. Local photo packaging remains incomplete.
+Checks: original ZIP integrity passed; structural HTML and JavaScript syntax checks pending final execution; browser visual checks not yet performed.
+Known limitation: remote assets require network access. This ZIP does not represent a public deployment.
